@@ -1,0 +1,1 @@
+This is an open source PHP project that helps in creating and analyzing Astrology birth charts.
